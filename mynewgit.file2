@@ -8,3 +8,6 @@ Git Best Practices:
     Try to use git commands rather than GUI tools.
     use ssh url and PAT over https 
     use rebase over git merge
+    
+    It is complicated i will not stop trying
+    
